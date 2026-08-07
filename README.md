@@ -1,5 +1,8 @@
 # [aerostatpark.net](https://aerostatpark.net)
 
+![](screenshot.png)
+
+
 self-replicating web swarm
 
 spore.php --> [spore.json](spore.json) --> {self-replicating code set}
