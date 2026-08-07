@@ -1,7 +1,8 @@
 # [aerostatpark.net](https://aerostatpark.net)
 
 ![](screenshot.png)
-
+![](cardboard-sign-1.png)
+![](cardboard-sign-2.png)
 
 self-replicating web swarm
 
